@@ -16,4 +16,4 @@ In `test` folder - error graphs
 ![testU1](testU1.gif)
 
 
-Special thanks to Hans [Petter Langtangen](https://github.com/hplgit) for [this material](http://hplgit.github.io/num-methods-for-PDEs/doc/pub/wave/pdf/wave-4print-A4.pdf)
+Special thanks to [Hans Petter Langtangen](https://github.com/hplgit) for [this material](http://hplgit.github.io/num-methods-for-PDEs/doc/pub/wave/pdf/wave-4print-A4.pdf)
